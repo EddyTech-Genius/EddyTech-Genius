@@ -7,7 +7,7 @@
 
 ### 👨‍💻 About Me
 
-I'm **Edwin Akobeh**, a 13 year old front-end developer in Ghana who loves to turn ideas into interactive, beautiful websites. I'm constantly pushing through my limits and writing code that works like magic ✨.
+I'm **Edwin Akobeh**, a 14 year old front-end developer in Ghana who loves to turn ideas into interactive, beautiful websites. I'm constantly pushing through my limits and writing code that works like magic ✨.
 
 ---
 
